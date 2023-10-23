@@ -70,3 +70,60 @@ body{
     'GRAD' 0,
     'opsz' 24
 }
+
+
+
+.photo{
+    width: 100%;
+    text-align: center;
+}
+
+.photo img {
+     height: 200px;
+}
+
+.left-side div {
+  text-align: center; 
+  width: 788px;
+  line-height: normal;
+  font-style: normal;
+
+}
+
+.text {
+    color: #000;
+    /* font-family: Roboto; */
+    font-size: 38px;
+    font-weight: 700;
+    margin-top: 40px;
+}
+
+.text-1{
+    height: 25px;
+    color: #000;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.text-2{
+    height: 40px;
+    color: #000;
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.text-3{
+    height: 62px;
+    color: #000;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.block{
+    height: 103px;
+    border-radius: 30px;
+    background: #FFF;
+}
+
+
+    
